@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.1",
-  "tag": "horiba-app-v0.9.1",
-  "url": "https://github.com/VivekBorse0023/ota-releases/releases/download/horiba-app-v0.9.1/horiba-app-v0.9.1.swu",
-  "sha256": "0d88a792dfd6c7eb910f198f1ea773dc342fd55ab5cf9c3a1a5efb0a6b31680f",
-  "content_sha256": "f6017b3f8892941acd162d638c4f1ddca589d6cf607568594bf2542826a20f75"
+  "version": "v0.10.0",
+  "tag": "horiba-app-v0.10.0",
+  "url": "https://github.com/VivekBorse0023/ota-releases/releases/download/horiba-app-v0.10.0/horiba-app-v0.10.0.swu",
+  "sha256": "1e0c34f6991528818eaea2d9f4ba027c48429f532192357afb012747d3dd3fa5",
+  "content_sha256": "3be7f90cfc3fc68ca7c13eb2fee09fcc82433fe5692567bbbe57804255f5e6e7"
 }
